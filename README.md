@@ -67,6 +67,24 @@ IBM Granite models provide enterprise-grade reliability, contextual reasoning, a
 
 AutoDevMate demonstrates Granite’s potential to eliminate friction, save time, and transform mundane tasks into intelligent, automated workflows.
 
+---
+
+## Code setup:
+
+1. Create python virtual environment.
+2. Run pip install requirements.txt to install requirements.
+3. on gitbash setup API keys as follows-
+- export IBM_WATSONX_API_KEY=<Your_API_KEY>
+- export IBM_WATSONX_PROJECT_ID=<Your_Project_key>
+- export IBM_WATSONX_URL=https://us-south.ml.cloud.ibm.com
+4. Run application using following command-
+- streamlit run autodevmate.py
+
+---
+
+## Youtube Video-
+
+- https://www.youtube.com/watch?v=Du1ZDCwVkK4
 
 
 
